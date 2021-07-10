@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋, my name is Pamela and I love technology!
+
+<div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+
+<a href="https://www.linkedin.com/in/seu_usuário"><img src="https://github.com/seu_usuário/seu_usuário/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/pamela-goncalves-souza/)
+
+![GitHub Logo]()
+Format: ![Alt Text](url)
 
 <!--
 **pamgruiz/pamgruiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
