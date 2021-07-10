@@ -4,8 +4,7 @@
 
 <a href="https://www.linkedin.com/in/seu_usuário"><img src="https://github.com/seu_usuário/seu_usuário/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/pamela-goncalves-souza/)
 
-![GitHub Logo]()
-Format: ![Alt Text](url)
+![GitHub Logo](![octocat girl](https://user-images.githubusercontent.com/80066085/125165048-9c99af80-e16b-11eb-84f1-95329cf9afb5.png)
 
 <!--
 **pamgruiz/pamgruiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
