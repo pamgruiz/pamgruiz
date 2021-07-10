@@ -1,10 +1,16 @@
-### Hi there 👋, my name is Pamela and I love technology!
+## Hi there 👋, my name is Pamela!
 
-<div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+### I love technology and coffee!
 
-<a href="https://www.linkedin.com/in/seu_usuário"><img src="https://github.com/seu_usuário/seu_usuário/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/pamela-goncalves-souza/)
 
-![GitHub Logo](![octocat girl](https://user-images.githubusercontent.com/80066085/125165048-9c99af80-e16b-11eb-84f1-95329cf9afb5.png)
+
+<a href="https://www.linkedin.com/in/pamela-goncalves-souza/"><img src="![linkedin](https://user-images.githubusercontent.com/80066085/125165084-ca7ef400-e16b-11eb-9c22-2f589e82b10e.png)" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/pamela-goncalves-souza/)  
+
+<a href="url"><img src="https://user-images.githubusercontent.com/80066085/125165048-9c99af80-e16b-11eb-84f1-95329cf9afb5.png" align="left" height="400" width="400" ></a>
+
+
+
+
 
 <!--
 **pamgruiz/pamgruiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
